@@ -1,5 +1,5 @@
 # devops-toolkit
-Yet another curated list of useful DevOps open-source tools.
+Yet another curated list of useful open-source DevOps tools.
 
 ## Table of Contents
 * [Cloud Management](#cloud-management)
