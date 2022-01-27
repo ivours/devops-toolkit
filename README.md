@@ -10,6 +10,7 @@ Yet another curated list of useful open-source DevOps tools.
 
 * [awsprofile](https://github.com/ivours/awsprofile) - Simple tool to easily switch between aws profiles.
 * [cloudgraph](https://github.com/cloudgraphdev/cli) - GraphQL powered search engine for cloud infrastructure.
+* [saw](https://github.com/TylerBrock/saw) - Watch AWS Cloudwatch logs through the terminal.
 
 ## Networking
 
